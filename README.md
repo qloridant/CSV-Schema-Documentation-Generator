@@ -20,9 +20,11 @@ Generates a single Markdown file with organized sections for each CSV file.
 ## Example:
 
 The file `example.md` is an exemple generated for the folder containing the files :
+```
 ├── src
 │   ├── data_canteen.csv
 │   ├── data_purchases.csv
+```
 
 
 
