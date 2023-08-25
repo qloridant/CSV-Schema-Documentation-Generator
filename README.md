@@ -4,7 +4,7 @@ This script is designed to automate the generation of comprehensive documentatio
 
 ## Usage:
 
-### Dependecies
+### Dependencies
 * frictionless
 * table-schema-to-markdown
 
