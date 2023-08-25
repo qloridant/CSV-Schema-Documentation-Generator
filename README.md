@@ -4,6 +4,10 @@ This script is designed to automate the generation of comprehensive documentatio
 
 ## Usage:
 
+### Dependecies
+* frictionless
+* table-schema-to-markdown
+
 Place your CSV files in the designated directory.
 Run the script, providing the path to the directory as an argument.
 The script will loop over each CSV file, extracting the column headers and the first line of data.
